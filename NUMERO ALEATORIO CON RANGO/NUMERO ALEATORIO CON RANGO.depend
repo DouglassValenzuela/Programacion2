@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1461989600 source:c:\users\user\documents\programación 2\numero aleatorio con rango\main.cpp
+	<iostream>
+	<stdlib.h>
+	<time.h>
+
