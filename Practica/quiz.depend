@@ -1,0 +1,7 @@
+# depslib dependency file v1.0
+1462328610 source:c:\users\user\documents\programación 2\quiz\main.cpp
+	<iostream>
+	<stdlib.h>
+	<time.h>
+	<stdio.h>
+
