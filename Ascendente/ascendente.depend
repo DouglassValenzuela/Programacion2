@@ -1,0 +1,7 @@
+# depslib dependency file v1.0
+1461712424 source:c:\users\user\documents\programación 2\ascendente\main.cpp
+	<iostream>
+	<time.h>
+	<stdlib.h>
+	<stdio.h>
+
